@@ -1,6 +1,11 @@
-# isw2-practicas
+# isw2 - practicas de Ingeniería de Software
 
-Juan Ramon Morel
-Ingenieria en Informática
+**Estudiante:** Juan Ramon Morel Madrid
+**Carrera:** Ingenieria en Informática
+**Clase:** Ingeniería de Software
+**Ing.:** Josué Vinicio Alemán Watters
 
-# Práctica 1
+## Índice
+
+1. Práctica 1 — Limpieza de código
+2. Práctica 2 — Flujo de ramas
