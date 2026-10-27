@@ -1,3 +1,4 @@
+//Original
 function generarNumeroSecreto(){
     let numeroGenerado = Math.floor(Math.random()*numeroMaximo)+1;
 
@@ -17,7 +18,7 @@ function generarNumeroSecreto(){
 }
 }
 
-
+//Refactorizado
 function generarNumeroSecreto(maximo, listaSorteados) {
     if (listaSorteados.length >= maximo) {
         return null; 
