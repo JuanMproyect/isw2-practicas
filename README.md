@@ -1,8 +1,8 @@
 # isw2 - practicas de Ingeniería de Software
 
-**Estudiante:** Juan Ramon Morel Madrid
-**Carrera:** Ingenieria en Informática
-**Clase:** Ingeniería de Software
+**Estudiante:** Juan Ramon Morel Madrid··
+**Carrera:** Ingeniería en Informática··
+**Clase:** Ingeniería de Software··
 **Ing.:** Josué Vinicio Alemán Watters
 
 ## Índice
